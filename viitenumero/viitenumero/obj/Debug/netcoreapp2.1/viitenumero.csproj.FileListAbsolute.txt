@@ -1,0 +1,11 @@
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/bin/Debug/netcoreapp2.1/viitenumero.deps.json
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/bin/Debug/netcoreapp2.1/viitenumero.runtimeconfig.json
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/bin/Debug/netcoreapp2.1/viitenumero.runtimeconfig.dev.json
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/bin/Debug/netcoreapp2.1/viitenumero.dll
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/bin/Debug/netcoreapp2.1/viitenumero.pdb
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/obj/Debug/netcoreapp2.1/viitenumero.csprojAssemblyReference.cache
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/obj/Debug/netcoreapp2.1/viitenumero.csproj.CoreCompileInputs.cache
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/obj/Debug/netcoreapp2.1/viitenumero.AssemblyInfoInputs.cache
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/obj/Debug/netcoreapp2.1/viitenumero.AssemblyInfo.cs
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/obj/Debug/netcoreapp2.1/viitenumero.dll
+/Users/mikaelsilvennoinen/Projects/viitenumero/viitenumero/obj/Debug/netcoreapp2.1/viitenumero.pdb
